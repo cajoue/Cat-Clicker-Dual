@@ -1,7 +1,5 @@
 'use strict';
 
-
-
 // cat JSON
 
 var cats = {
@@ -33,18 +31,13 @@ cats.display = function(){
     var formatCatImage = catImage.replace('%data%', cats.cat[kitty].image);
       $('.cat-unit:last').append(formatCatImage);
 
-    //var formatCatSourceURL  = catSource.replace('%urldata%', cats.cat[kitty].sourceURL);
-      //$('.cat-unit:last').append(formatCatSourceURL);
-
-    var formatCatSource  = catSource.replace('%data%', cats.cat[kitty].source);
+    var formatCatSource  = catSource.replace('%data%', cats.cat[kitty].sourceURL + '">' + cats.cat[kitty].source);
       $('.cat-unit:last').append(formatCatSource);
 
     //var formatCatID = catID.replace('%data%', cats.cat[kitty].id);
      // $('.cat-unit:last').append(formatCatID);
   }
 };
-
-
 
 
 
