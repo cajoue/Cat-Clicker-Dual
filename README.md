@@ -1,5 +1,6 @@
 # cat-clicker-dual
 Frontend Nanodegree project
+Javascript application for cat clicker game
 
 Duplicated original repo cat-clicker-1 using this process: https://help.github.com/articles/duplicating-a-repository/
 
@@ -13,4 +14,9 @@ Duplicated original repo cat-clicker-1 using this process: https://help.github.c
     - instead of replacing two %data% in separate steps
         + didn't work as the partial link seemed to be auto-completed, so the name of the link appeared out side it...
     - replaced single %data% with concatenated data
+~* hmmm, just noticed similar issue with <figure> ~
+    - duh - of course the tags are auto-completing! 
+    - will need to think nesting...
+    - appended info to figure instead of cat-unit
 * add clickability to cats 
+
