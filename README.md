@@ -1,4 +1,4 @@
-# cat-clicker-dual
+# cat-clicker-duel
 Frontend Nanodegree project
 Javascript application for cat clicker game
 

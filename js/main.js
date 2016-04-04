@@ -7,7 +7,7 @@ var cats = {
         {
             id: 'cat01',
             name: 'Katie',
-            image: 'http://placekitten.com/400/300',
+            image: 'http://placekitten.com/300/200',
             sourceURL: 'http://placekitten.com',
             source: 'placekitten.com',
             count: 0
@@ -15,7 +15,7 @@ var cats = {
         {
             id: 'cat02',
             name: 'Charlotte',
-            image: 'http://placekitten.com/g/400/300',
+            image: 'http://placekitten.com/g/300/200',
             sourceURL: 'http://placekitten.com',
             source: 'placekitten.com',
             count: 0
