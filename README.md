@@ -18,5 +18,11 @@ Duplicated original repo cat-clicker-1 using this process: https://help.github.c
     - duh - of course the tags are auto-completing! 
     - will need to think nesting...
     - appended info to figure instead of cat-unit
-* add clickability to cats 
+~* add clickability to cats ~ 
+    - phew - that was an ordeal...
+    - it's not pretty :(
+
+**Helpful Resources**
+http://stackoverflow.com/a/9922062/6156379
+http://stackoverflow.com/a/2398963/6156379
 
